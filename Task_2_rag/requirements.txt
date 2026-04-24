@@ -1,0 +1,10 @@
+PyMuPDF
+numpy
+sentence-transformers
+transformers
+langchain
+langchain-text-splitters
+streamlit
+requests
+supabase
+python-dotenv
