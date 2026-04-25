@@ -155,9 +155,3 @@ This project demonstrates a complete pipeline:
 * Generating real-world insights
 
 ---
-
-## 👤 Author
-
-Devang Patel
-
----
